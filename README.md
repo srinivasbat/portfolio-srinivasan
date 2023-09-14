@@ -38,9 +38,10 @@ Here are some of the key skills and technologies I have experience with:
 ### Project 2: CI/CD Pipeline with Jenkins
 
 - Description: I implemented a CI/CD pipeline using Jenkins to automate the build and deployment process for a web sites.
-  Automated 1. Code Deployment: AWS CodeDeploy and CodePipeline
-            2. Efficient Web Deployment with GitHub, Jenkins, SonarQube, and Docker,
-               GitHub Webhook
+  
+  1. Code Deployment: AWS CodeDeploy and CodePipeline, and Github
+  2. Efficient Web Deployment with GitHub, Jenkins, SonarQube, and Docker,
+     GitHub Webhook
 
 ## Education
 
