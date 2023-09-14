@@ -13,62 +13,45 @@ Welcome to my Junior Cloud Engineer portfolio! This portfolio showcases my skill
 
 ## Introduction
 
-Hi, I'm [Your Name], a Junior Cloud Engineer with a strong interest in cloud computing and infrastructure management. I am dedicated to learning and implementing cloud solutions to solve real-world problems. This portfolio serves as a snapshot of my journey and experiences in the field of cloud engineering.
+Hi, I'm Srinivasan, a Junior Cloud Engineer with a strong interest in cloud computing and infrastructure management. I am dedicated to learning and implementing cloud solutions to solve real-world problems. This portfolio serves as a snapshot of my journey and experiences in the field of cloud engineering.
 
 ## Skills
 
 Here are some of the key skills and technologies I have experience with:
 
-- **Cloud Platforms**: AWS, Azure, Google Cloud
-- **Infrastructure as Code (IaC)**: Terraform, AWS CloudFormation
-- **Containers and Orchestration**: Docker, Kubernetes
-- **Continuous Integration/Continuous Deployment (CI/CD)**: Jenkins, GitLab CI/CD
-- **Scripting Languages**: Python, Bash
-- **Monitoring and Logging**: Prometheus, Grafana, ELK Stack
+- **Cloud Platforms**: AWS, Azure
+- **Infrastructure as Code (IaC)**: Terraform Fundamental
+- **Containers**: Docker
+- **Continuous Integration/Continuous Deployment (CI/CD)**: Jenkins, Github Actions Basics
+- **Scripting Languages**: Basic Bash
+- **Monitoring and Logging**: Prometheus, Grafana
 - **Networking**: VPC, Subnets, Security Groups, Load Balancers
-- **Database Management**: RDS, DynamoDB
+- **Database Management**: RDS
 - **Operating Systems**: Linux, Windows
 
 ## Projects
 
 ### Project 1: Deploying a Web Application on AWS
 
-- Description: In this project, I created a scalable web application using AWS services, including EC2 instances, RDS databases, and an Application Load Balancer. I implemented Infrastructure as Code (IaC) using Terraform for automated provisioning.
+- Description: In this project, I created a scalable web application using AWS services, including EC2 instances, RDS databases, and an Application Load Balancer.
 
-- GitHub Repo: [Link to GitHub Repo](https://github.com/yourusername/project1)
+### Project 2: CI/CD Pipeline with Jenkins
 
-### Project 2: Kubernetes Cluster Deployment
-
-- Description: I set up a Kubernetes cluster on AWS and deployed containerized applications. I used Kubernetes to manage container orchestration, scaling, and load balancing.
-
-- GitHub Repo: [Link to GitHub Repo](https://github.com/yourusername/project2)
-
-### Project 3: CI/CD Pipeline with Jenkins
-
-- Description: I implemented a CI/CD pipeline using Jenkins to automate the build and deployment process for a web application. This project demonstrates my understanding of CI/CD best practices.
-
-- GitHub Repo: [Link to GitHub Repo](https://github.com/yourusername/project3)
+- Description: I implemented a CI/CD pipeline using Jenkins to automate the build and deployment process for a web sites.
+  Automated 1. Code Deployment: AWS CodeDeploy and CodePipeline
+            2. Efficient Web Deployment with GitHub, Jenkins, SonarQube, and Docker,
+               GitHub Webhook
 
 ## Education
 
-- **Bachelor of Science in Computer Science**
-  - University Name
-  - Graduation Year: YYYY
-
-## Certifications
-
-- **AWS Certified Cloud Practitioner**
-  - AWS
-  - Certification Date: Month Year
-
-- **Microsoft Certified: Azure Fundamentals**
-  - Microsoft
-  - Certification Date: Month Year
+- **Bachelor of Engineering in Mechanical**
+  - University Name: ARJ College of Engineering and Technology
+  - Graduation Year: 2022
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Email: youremail@example.com
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- LinkedIn: https://www.linkedin.com/in/srinivasan-karthikeyan
+- Email: srinivasankarthikeyan.2000@gmail.com
+- GitHub: https://github.com/srinivasbat
 
 Feel free to reach out to discuss potential collaborations or job opportunities. I'm excited to continue my journey in cloud engineering and contribute to innovative projects!
