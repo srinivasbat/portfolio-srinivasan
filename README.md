@@ -49,6 +49,9 @@ Here are some of the key skills and technologies I have experience with:
   - University Name: ARJ College of Engineering and Technology
   - Graduation Year: 2022
 
+## Certifications
+  -**AWS Cloud Quest: Cloud Practitioner**
+  Badge: https://www.credly.com/badges/a38fcee6-a0ac-4a46-8771-25087fed12e3/public_url
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/srinivasan-karthikeyan
