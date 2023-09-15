@@ -1,5 +1,44 @@
-title: Srinivasan K
-logo: /assets/img/srini-git.jpg
-##description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+name: GitHub Pages Deploy
+
+on:
+  push:
+    branches:
+      - main  # Change this to the branch you want to deploy from
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Ruby
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.7  # Choose the Ruby version you need
+
+    - name: Install Bundler
+      run: gem install bundler
+
+    - name: Install Dependencies
+      run: bundle install
+
+    - name: Build Jekyll Site
+      run: bundle exec jekyll build
+
+    - name: Deploy to GitHub Pages
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git checkout gh-pages
+        mv _site/* .
+        git add .
+        git commit -m "Deploy Jekyll site"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # This token is automatically provided by GitHub
+
+env:
+  JEKYLL_PAGINATOR: true
+  JEKYLL_ENV: production
