@@ -1,3 +1,4 @@
+![Project 1 Screenshot 2](assets/img/Srinivasan.png)
 # Junior Cloud Engineer Portfolio
 
 Welcome to my Junior Cloud Engineer portfolio! This portfolio showcases my skills, projects, and experiences related to cloud computing and infrastructure management. I'm passionate about cloud technologies and eager to contribute to cloud-based solutions.
