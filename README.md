@@ -42,7 +42,8 @@ Welcome to my portfolio! This repository highlights my **skills, projects, and e
 
 ## 📜 Certifications  
 
-- **AWS Cloud Practitioner** – [View Badge](https://www.credly.com/badges/a38fcee6-a0ac-4a46-8771-25087fed12e3/public_url)  
+- **AWS Cloud Practitioner** – [View Badge](https://www.credly.com/badges/a38fcee6-a0ac-4a46-8771-25087fed12e3/public_url)
+- **AWS Generative AI Practitioner** - [View Badge](https://www.credly.com/badges/0cd686f5-aa8f-4aa8-883f-14b8deef7a6f/public_url)
 
 ---
 
