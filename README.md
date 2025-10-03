@@ -1,4 +1,4 @@
-# 🚀 DevOps Engineer Portfolio  
+#  DevOps Engineer Portfolio  
 
 Welcome to my portfolio! This repository highlights my **skills, projects, and experience** in **DevOps, Cloud Engineering, and Infrastructure Automation**. With 1.5 years of professional experience, I have worked on deploying and managing **web applications, ML/LLM pipelines, and scalable cloud infrastructure**.  
 
