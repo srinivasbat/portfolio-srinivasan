@@ -1,63 +1,57 @@
-![Project 1 Screenshot 2](linkedin-baner3.jpg)
-# Junior Cloud Engineer Portfolio
+# 🚀 DevOps Engineer Portfolio  
 
-Welcome to my Junior Cloud Engineer portfolio! This portfolio showcases my skills, projects, and experiences related to cloud computing and infrastructure management. I'm passionate about cloud technologies and eager to contribute to cloud-based solutions.
+Welcome to my portfolio! This repository highlights my **skills, projects, and experience** in **DevOps, Cloud Engineering, and Infrastructure Automation**. With 1.5 years of professional experience, I have worked on deploying and managing **web applications, ML/LLM pipelines, and scalable cloud infrastructure**.  
 
-## Table of Contents
+---
 
-- [Introduction](#introduction)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Education](#education)
-- [Certifications](#certifications)
-- [Contact](#contact)
+## 🛠 Skills  
 
-## Introduction
+- **Cloud Platforms**: AWS (EC2, S3, CloudFront, API Gateway, DynamoDB, IAM, VPC, Auto Scaling, Load Balancers), Azure (basic), GCP (basic)  
+- **CI/CD**: Git, GitLab CI/CD, Jenkins, AWS CodePipeline, CodeDeploy  
+- **Containers & Orchestration**: Docker, Kubernetes  
+- **IaC & Automation**: Terraform (fundamentals), Bash scripting  
+- **Monitoring & Security**: CloudWatch, WAF, ManageEngine, logging, performance monitoring  
+- **Application Deployment**: Node.js, Django, Nginx reverse proxy  
+- **ML/LLM Deployment**: RAG pipelines, fine-tuned LLaMA models, llama.cpp, vLLM  
 
-Hi, I'm Srinivasan, a Junior Cloud Engineer with a strong interest in cloud computing and infrastructure management. I am dedicated to learning and implementing cloud solutions to solve real-world problems. This portfolio serves as a snapshot of my journey and experiences in the field of cloud engineering.
+---
 
-## Skills
+## 📂 Projects  
 
-Here are some of the key skills and technologies I have experience with:
+### 🔹 ConfidentoAI – VR-based Healthcare Platform  
+- Deployed **Django APIs** integrated with fine-tuned LLaMA models on **AWS EC2**.  
+- Implemented **API Gateway + DynamoDB** for secure, serverless, and scalable backend components.  
+- Containerized LLM inference engines with **Docker** and deployed on **Kubernetes** for efficient serving.  
 
-- **Cloud Platforms**: AWS, Azure
-- **Infrastructure as Code (IaC)**: Terraform Fundamental
-- **Containers**: Docker
-- **Continuous Integration/Continuous Deployment (CI/CD)**: Jenkins, GitHub Actions Basics
-- **Scripting Languages**: Basic Bash
-- **Monitoring and Logging**: Prometheus, Grafana
-- **Networking**: VPC, Subnets, Security Groups, Load Balancers
-- **Database Management**: RDS
-- **Operating Systems**: Linux, Windows
+### 🔹 MyHotelAI – Smart Hotel Property Management  
+- Implemented **Blue/Green deployments** for seamless upgrades.  
+- Automated **database backups** and infrastructure monitoring.  
+- Worked with **Load Balancer + Auto Scaling** for high availability.  
 
-## Projects
+### 🔹 CI/CD Pipeline for Web Applications  
+- Set up **GitLab CI/CD** and **Jenkins** pipelines for build, test, and deployment.  
+- Integrated **SonarQube, Docker, GitHub Webhooks** for automated quality checks and deployments.  
 
-### Project 1: Deploying a Web Application on AWS
+---
 
-- **Description**: In this project, I created a scalable web application using AWS services, including EC2 instances, RDS databases, and an Application Load Balancer.
+## 🎓 Education  
 
-### Project 2: CI/CD Pipeline with Jenkins
+- **B.E. (Mechanical Engineering)** – ARJ College of Engineering and Technology (2018–2022)  
 
-- **Description**: I implemented a CI/CD pipeline using Jenkins to automate the build and deployment process for web applications.
+---
 
-  - Code Deployment: AWS CodeDeploy and CodePipeline
-  - Efficient Web Deployment with GitHub, Jenkins, SonarQube, and Docker, including GitHub Webhook
+## 📜 Certifications  
 
-## Education
+- **AWS Cloud Practitioner** – [View Badge](https://www.credly.com/badges/a38fcee6-a0ac-4a46-8771-25087fed12e3/public_url)  
 
-- **Bachelor of Engineering in Mechanical**
-  - **University Name**: ARJ College of Engineering and Technology
-  - **Graduation Year**: 2022
+---
 
-## Certifications
+## 📬 Contact  
 
-- **AWS Cloud Practitioner**
-  - **Badge**: [View Badge](https://www.credly.com/badges/a38fcee6-a0ac-4a46-8771-25087fed12e3/public_url)
+- **LinkedIn**: [Srinivasan Karthikeyan](https://www.linkedin.com/in/srinivasan-karthikeyan)  
+- **Email**: srinivasankarthikeyan.2000@gmail.com  
+- **GitHub**: [srinivasbat](https://github.com/srinivasbat)  
 
-## Contact
+---
 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/srinivasan-karthikeyan)
-- **Email**: srinivasankarthikeyan.2000@gmail.com
-- **GitHub**: [GitHub Profile](https://github.com/srinivasbat)
-
-Feel free to reach out to discuss potential collaborations or job opportunities. I'm excited to continue my journey in cloud engineering and contribute to innovative projects!
+⭐️ Feel free to explore my projects and connect with me for collaboration or opportunities!  
